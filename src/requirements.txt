@@ -28,7 +28,7 @@ opentelemetry-semantic-conventions==0.26b1
 opentelemetry-util-http==0.26b1
 prometheus-client==0.12.0
 prometheus-flask-exporter==0.18.5
-protobuf==3.19.1
+protobuf==3.19.5
 python-decouple==3.5
 pytz==2021.3
 requests==2.26.0
