@@ -35,6 +35,6 @@ requests==2.26.0
 six==1.16.0
 thrift==0.15.0
 urllib3==1.26.7
-Werkzeug==2.0.2
+Werkzeug==2.2.3
 wrapt==1.13.3
 zope.interface==5.4.0
